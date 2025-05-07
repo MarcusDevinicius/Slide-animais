@@ -21,6 +21,7 @@ img {
 
 .slide {
     display: flex;
+    transition: .3s;
 }
 
 .slide li {

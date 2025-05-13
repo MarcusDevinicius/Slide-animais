@@ -213,3 +213,5 @@ export class SlideNav extends Slide {
         this.activeControlItem = this.activeControlItem.bind(this);
     }
 }
+
+//Eu amo Rafa
